@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hassan-Uddin
-- 👀 I’m interested in becoming a full-stack develop
+- 👀 I’m interested in becoming a full-stack developer 
 - 🌱 I’m currently learning with the Odin Project
 
 - 📫 How to reach me mdhassan_uddin@yahoo.com
